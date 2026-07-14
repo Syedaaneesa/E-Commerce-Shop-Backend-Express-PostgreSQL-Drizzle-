@@ -83,8 +83,8 @@ PORT=5000
 
 DATABASE_URL=postgresql://username:password@localhost:5432/ecommerce
 
-CLERK_SECRET_KEY=
-CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=23846dgafu2fg8342687ebd36qr3xb6er12e78xb3e3r21ex8398c
+CLERK_PUBLISHABLE_KEY=ebtr8b73brt7ctqc6r3qr78eqewc9dyfnewr9
 
 LOG_LEVEL=info
 ```
