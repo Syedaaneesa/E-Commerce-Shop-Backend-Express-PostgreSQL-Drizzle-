@@ -2,7 +2,7 @@
 
 A modern, production-ready **E-Commerce Backend API** built with **Express.js**, **PostgreSQL**, **Drizzle ORM**, **TypeScript**, **Clerk Authentication**, and **Pino Logger**. Designed with scalability, security, and maintainability in mind, this backend provides everything needed to power a modern online store.
 
----
+
 
 ## ✨ Features
 
@@ -24,12 +24,12 @@ A modern, production-ready **E-Commerce Backend API** built with **Express.js**,
 * 🧩 Modular and scalable project structure
 * 🌍 Environment-based configuration
 
----
+
 
 ## 🛠️ Tech Stack
 
 | Technology  | Purpose                          |
-| ----------- | -------------------------------- |
+| -- | -- |
 | Express.js  | Backend Framework                |
 | TypeScript  | Type Safety                      |
 | PostgreSQL  | Database                         |
@@ -38,7 +38,7 @@ A modern, production-ready **E-Commerce Backend API** built with **Express.js**,
 | Pino        | High-performance Logging         |
 | Node.js     | Runtime                          |
 
----
+
 
 ## 📁 Project Structure
 
@@ -56,7 +56,7 @@ src/
 └── server.ts
 ```
 
----
+
 
 ## 🚀 Getting Started
 
@@ -89,7 +89,7 @@ CLERK_PUBLISHABLE_KEY=ebtr8b73brt7ctqc6r3qr78eqewc9dyfnewr9
 LOG_LEVEL=info
 ```
 
----
+
 
 ## 🗄️ Database
 
@@ -111,7 +111,7 @@ Open Drizzle Studio:
 npm run db:studio
 ```
 
----
+
 
 ## ▶️ Development
 
@@ -133,7 +133,7 @@ Run the production build:
 npm start
 ```
 
----
+
 
 ## 📌 API Modules
 
@@ -148,7 +148,7 @@ npm start
 * Reviews
 * Health Check
 
----
+
 
 ## 🔒 Authentication
 
@@ -160,7 +160,7 @@ Authentication is powered by **Clerk**, providing:
 * Role-based Authorization
 * Protected Routes
 
----
+
 
 ## 📈 Logging
 
@@ -171,7 +171,7 @@ Application logs are handled by **Pino**, offering:
 * Error tracking
 * Production-ready performance
 
----
+
 
 ## 🎯 Goals
 
@@ -183,7 +183,7 @@ This project aims to provide a clean, scalable backend architecture suitable for
 * Mobile Applications
 * SaaS Commerce Solutions
 
----
+
 
 ## 🤝 Contributing
 
@@ -194,13 +194,13 @@ Contributions, issues, and feature requests are welcome.
 3. Commit your changes
 4. Open a Pull Request
 
----
+
 
 ## 📄 License
 
 This project is licensed under the **MIT License**.
 
----
+
 
 ## 👨‍💻 Author
 
@@ -211,7 +211,7 @@ Full-Stack Web Developer
 * Portfolio: https://aneesa.zeestmedia.com
 * Website: https://zeestmedia.com
 
----
+
 
 ## ⭐ Support
 
